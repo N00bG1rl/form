@@ -14,7 +14,9 @@ March 2, 2017
 * CSS
 
 # View on browser
-[https://n00bg1rl.github.io/form/](https://n00bg1rl.github.io/form/)
+
+## [https://n00bg1rl.github.io/form/](https://n00bg1rl.github.io/form/)
 
 # View as image
+
 ![github](./assets/images/github.png)
